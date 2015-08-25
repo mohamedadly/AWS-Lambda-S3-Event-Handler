@@ -1,0 +1,5 @@
+#Lambda Function Project Metadata
+#Tue Aug 25 15:16:05 AST 2015
+lastDeploymentFunctionName=s3EventProcessor
+lastDeploymentBucketName=lambda-function-bucket-us-east-1-1440504860444
+lastDeploymentEndpoint=https\://lambda.us-east-1.amazonaws.com/
